@@ -1,0 +1,39 @@
+_repo: Captain-June_38228
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weldon, C. D. (Charles Dater)
+    alias: Weldon, Charles Dater
+    birthdate: 1855
+    deathdate: 1935
+    gutenberg_agent_id: '43330'
+    url: http://www.gutenberg.org/2009/agents/43330
+covers:
+- cover_type: archival
+  image_path: 38228-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rice, Alice Caldwell Hegan
+    aliases:
+    - Rice, Alice Hegan
+    - Hegan, Alice Caldwell
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '1471'
+    url: http://www.gutenberg.org/2009/agents/1471
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
+description: ''
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Americans -- Japan -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Captain June
+url: http://www.gutenberg.org/ebooks/38228
