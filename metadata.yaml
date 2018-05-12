@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1471
     wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38228#Captain-June
 gutenberg_issued: '2011-12-06'
 gutenberg_type: Text
 identifiers:
